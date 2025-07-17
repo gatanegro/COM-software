@@ -1,5 +1,7 @@
 # COM Framework Software Architecture Design
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15611903.svg)](https://doi.org/10.5281/zenodo.15611903)
+
 ## 1. System Overview
 
 The COM Framework Software is a application that implements the Continuous Oscillatory Model principles with a focus on cryptographic applications. The architecture follows a modular design pattern to ensure extensibility, maintainability, and separation of concerns.
